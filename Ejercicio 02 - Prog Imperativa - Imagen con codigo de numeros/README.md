@@ -18,4 +18,4 @@ Como verás, esta es una forma de transmitir información de manera precisa y co
 
 Realizado por : Luciano Gabriel Greco Full Sstack Developer
 
-![](img/perfil.jpeg)
+![](img//LucianoGreco.jpeg)
