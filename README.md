@@ -3,7 +3,7 @@
 
 PROGRAMACION IMPERTATIVA
 
-# 🟣 Módulo 1: Pensamiento Computacional
+# 🔵 Módulo 1 - Pensamiento Computacional
 >Comprender las nociones básicas de programación, identificando las estructuras cognitivas del pensamiento computacional.
 
 **✔ CLASE 1 - Bienvenida**
@@ -38,7 +38,7 @@ PROGRAMACION IMPERTATIVA
 		○ Verificación de Instalación
 
 
-# 🟣 Módulo 2: Programación en JavaScript
+# 🔵 Módulo 2 - Programación en JavaScript
 >Comienza la etapa en la que vamos a conocer el entorno de trabajo y las estructuras más elementales y básicas de la programación. Estos elementos son usados por la mayoría de los lenguajes más populares (C, C++, C#, JAVA, Python, JS, etc) por lo que aprenderlas y dominarlas es absolutamente necesario.
 >Continuamos profundizando en el uso del lenguaje, esta vez trabajando con tipos de datos más complejos como son los strings, los arrays y los objetos literales. Vamos a aprender cómo trabajar con estas estructuras de datos, iterarlos y trabajar con ellos dinámicamente.
 >También vamos a adentrarnos en el sistema de módulos de Node, y comprender cómo podemos usarlo para persistir los datos de nuestras aplicaciones.
@@ -134,7 +134,7 @@ PROGRAMACION IMPERTATIVA
 **✔ Clase 15 - Parcial**
 
 
-# 🟣 Módulo 3: Algoritmos
+# 🔵 Módulo 3 - Algoritmos
 >Cerramos la materia poniendo todo lo aprendido en práctica a través de la implementación de algoritmos.
 >En el camino aprenderemos sobre algunos tipos de algoritmos, los cuales nos permitirán ejercitar el pensamiento lógico, y la relación con el código. Hora de desempolvar lo aprendido durante los módulos anteriores!
 
@@ -175,7 +175,7 @@ PROGRAMACION IMPERTATIVA
 
 
 
-# 🟣 Módulo 4: Cierre
+# 🔵 Módulo 4 - Cierre
 >Como parte final veremos una introducción a la recursión y complejidad computacional.
 
 **✔ CLASE 25 - Complejidad computacional**
