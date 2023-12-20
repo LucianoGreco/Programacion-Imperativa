@@ -1,0 +1,25 @@
+# Pensamiento Computacional:
+Conjunto de operaciones y actividades que una computadora realiza para llevar a cabo una tarea o función específica
+
+	Enfoques: 
+		. Descomponer
+		. Abstraer
+		. Detectar Patrones
+		. Algoritmizar
+
+	Estos no son secuenciales y se pueden encontrar uno dentro de otro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

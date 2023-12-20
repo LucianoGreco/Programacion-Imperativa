@@ -1,0 +1,22 @@
+Clase 01 - Prog Imperativa - Visto - Pensamiento Computacional - Diagrama - Juego robot
+Clase 02 - Prog Imperativa - Visto - Paradigmas de prog. - Imperativa - Declarativa - Orientado a Objetos - Reactiva
+Clase 03 - Prog Imperativa - Visto - Variables - Promt instalacion - tipos datos - concatenacion - interpolacion - operaciones
+Clase 04 - Prog Imperativa - Visto - Funciones expresadas (declarar y capturarlas en variable) - return - operaciones - Math.random();
+Clase 05 - Prog Imperativa - Visto - Funciones expresadas y arrow function, funciones (par, suma, promedio) - parseInt - funcion( funcion() )  - if else
+Clase 06 - Prog Imperativa - Visto - If else - switch case, breack, default - if ternario - parseFloat e Int , && II - String a true o false con if
+Clase 07 - Prog Imperativa - Visto - while - do while - for - i++ i--
+Clase 08 - Prog Imperativa - Visto - promediar() - convertirArsAUsd() - descSalario() - promediar() - esPar() - miltipContador() - acceso() - nMayor()
+Clase 09 - Prog Imperativa - Visto - Array[1,2,3] - array[variables] - .indexOf('@') - .unshift[] .push[] - modificar[1] = 2 - .length
+Clase 10 - Prog Imperativa - Visto - ObjetoLiterales - { atributo = valor, function(){} } - for(obj{clave=valor} )
+Clase 11 - Prog Imperativa - Visto - ObjetoLiterales - arrays[ objetos{ atributo = valor} ] - BuscarValor(Array){for}
+Clase 12 - Prog Imperativa - Visto - arreglos[ ojetos{ atributos = valores } ] - .push - BuscarEnArray() - ModificarEnArray() - .this - for(array[i])
+Clase 13 - Prog Imperativa - Visto - Repaso - for - while - objetoLiterales - array - Objetos = { funciones(){} }
+Clase 14 - Prog Imperativa - Visto - array[] - push objetos{} - aumentarEdad( for() ) - aumentarEdad2( for() - if()) - crearID(array[] ) - eliminarPropiedad(array[])
+Clase 15 - Prog Imperativa - Visto - .push() - mayor(a,b) - mayor(mayor(a,b),c) - mayor(mayor(a,b), mayor(c,d)) - Math.max() - esPar(if % ===0) - esPtimo
+Clase 16 - Prog Imperativa - Examen
+Clase 17 - Prog Imperativa - Visto - Matriz[ [],[]] - for(){ i++ for(){ j++} } - console.table() - [filas][columnas]
+Clase 18 - Prog Imperativa - Visto - SumarValoresMatriz()  - CrearMatriz() - SumarDiagonal() - gastosMensual-semanal-Diarios - SemanaConMayorGastp()
+Clase 19 - Prog Imperativa - Visto - Metodos de Ordenacion( arrays [numeros-string- objetos]  ) - Bubble Sort - Ascendente y Descendente
+Clase 20 - Prog Imperativa - Visto - Ordenamiento( array [Objetos] );
+Clase 21 - Prog Imperativa - Visto - sumarValores(arreglo) - sumaDiagonalPrincipal(arreglo) e invertido - ordenarDeMenorAMayor(arr)
+Clase 22 - Prog Imperativa - Visto - busqueda Binaria - Ordenamiento bubble sort

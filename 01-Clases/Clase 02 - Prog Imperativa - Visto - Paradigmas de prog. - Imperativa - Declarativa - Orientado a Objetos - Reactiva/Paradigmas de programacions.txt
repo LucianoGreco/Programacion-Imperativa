@@ -1,0 +1,67 @@
+# PARADIGMA DE PROGRAMACION:
+Distintas formas de usar la programacion para resolver un problema
+
+
+a. Imperativa:
+	Enfoque: Se centra en describir paso a paso cómo realizar una tarea.
+	Énfasis: Detalla los pasos específicos que la computadora debe seguir.
+
+
+	// Suma de los primeros cinco números naturales.
+
+		resultado = 0
+
+		for i in range(1, 6):
+    			resultado += i
+		print(resultado)
+
+
+
+b. Declarativa:
+	Enfoque: Se centra en describir qué resultado se desea obtener, sin especificar cómo lograrlo.
+	Énfasis: Se preocupa más por la lógica y la relación entre los datos que por los pasos exactos.
+
+
+	// Suma de los primeros cinco números naturales.
+
+		resultado = sum(range(1, 6))
+		print(resultado)
+
+
+
+c. Orientada a objetos:
+	Enfoque: Organiza el código alrededor de "objetos" que combinan datos y funciones.
+	Énfasis: Se basa en la encapsulación, la herencia y el polimorfismo para modelar el mundo real.
+
+
+		class Persona:
+    			def __init__(self, nombre, edad):
+        			self.nombre = nombre
+        			self.edad = edad
+
+    			def saludar(self):
+        			print(f"Hola, soy {self.nombre}.")
+	
+
+		persona1 = Persona("Juan", 25)
+		persona1.saludar()
+
+
+
+d. Reactiva:
+	Enfoque: Reacciona a los cambios en los datos, actualizando automáticamente las partes afectadas del sistema.
+	Énfasis: Se centra en la propagación eficiente de cambios y la gestión de eventos en tiempo real.
+
+
+	// Actualización automática de una interfaz de usuario al cambiar un valor.
+
+		const valor = new Rx.BehaviorSubject(0);
+
+		valor.subscribe((nuevoValor) => {
+  			console.log(`Nuevo valor: ${nuevoValor}`);
+		});
+
+	// Al cambiar el valor, se activa automáticamente la actualización.
+		valor.next(1);
+		valor.next(2);
+
