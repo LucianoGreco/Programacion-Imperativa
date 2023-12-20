@@ -1,0 +1,22 @@
+Ejercicio 01 - Prog Imperativa - Juego Robot - Instrucciones
+Ejercicio 02 - Prog Imperativa - Imagen con codigo de numeros
+Ejercicio 03 - Prog Imperativa -
+Ejercicio 04 - Prog Imperativa - Funciones - arrowFunction - return - Math.PI - typeof
+Ejercicio 05 - Prog Imperativa - Funciones Expresadas - suma, resta, multiplicacion y divisiom
+Ejercicio 06 - Prog Imperativa - Switch - if elese - prompt - funtion() - Math.random() - && II = - .toLowerCase()
+Ejercicio 07 - Prog Imperativa - While - do while - for - factorial - fibomancci
+Ejercicio 08 - Prog Imperativa - CalcularEdad() - encNum(Math.tandom()) - nPar(for()) - mostrarArray() - porcentaje() - buscarEle(), cifras() - promedio() - suma(N)
+Ejercicio 09 - Prog Imperativa - .push(agregar) - .toUpperCase(mayusculas) - for(recorrer) - .pop(eliminar) - comparar(array) - arrayInverso() - sumar(array) - .join()
+Ejercicio 10 & 11 - Prog Impe -  arrayClientes[] - function(extraccion, deposito, informacion) - propiedad{nombre nombre] - promediarNotas{array[]}
+Ejercicio 12 - Prog Imperativa - concurso = { array[] - functiones . join()} - Sumar(numArray) - ArrayString(join() ) -
+Ejercicio 13 - Prog Imperativa - Loop de pares & Impares - sumatoria(num) - loop(num) - split('h','o',´l´,´a´) - plindromo('ana') - cosole.log(arr1[i], arr2[i])
+Ejercicio 14 - Prog Imperativa - buscarN(mayor - menor - igual) - Obt(Nmax y Nmin) - pormedio(array[] ) - Incrementar(array[i])- buscarPorSaldo - buscarPorId()
+Ejercicio 15 - Porg Imperativa - fizz-buzz(%) - buscarIndice() - DiasMes() - InvertirNum() - valorRepe()
+Ejercicio 16 - Porg Imperativa - generarMatriz() -  sumarDiagonal&Invertido()
+Ejercicio 17 - Prog Imperativa - matriz[] - gastoSemanalDiarioMensual() - diasConMayorGasto();
+Ejercicio 18 - Prog Imperativa - matriz - recorrer() - sumaNumerosEntreDiesyMil()
+Ejercicio 19 - Prog Imperativa - Ordenamiento - fotografiaLikes() - temperatura( array[ Objetos ] )
+Ejercicio 20 - Prog Imperativa - digitosDecimales() NumTresEnTres( 5 a 10) - sumaNumeros() - contarVocales() - listaInvertida() - ImprimirPiramide()
+Ejercicio 21 - Prog Imperativa - estaOrdenado(arr) - mostrarMensaje(arreglo) - piramideIvertida(numero) - suma( fila - columna - digonal )
+Ejercicio 22 - Prog Imperativa - busqueda Binaria - Ordenamiento bubble sort
+Ejercicio 23 - Prog Imperativa -
