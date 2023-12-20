@@ -39,6 +39,7 @@ Continuamos profundizando en el uso del lenguaje, esta vez trabajando con tipos 
 También vamos a adentrarnos en el sistema de módulos de Node, y comprender cómo podemos usarlo para persistir los datos de nuestras aplicaciones.
 
 **Clase 4: Variables, tipos de datos y operadores**
+
 	● Variables y tipos de Datos
 		○ Tipos de variables
 		○ Declaración de una variable
