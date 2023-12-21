@@ -5,6 +5,7 @@
 =================
 
 **Instrucciones**
+
 Te proponemos crear el diagrama de flujo que luego vas a pasar al lenguaje de LightBot. 
 
 Por ejemplo, el primer nivel sería:
