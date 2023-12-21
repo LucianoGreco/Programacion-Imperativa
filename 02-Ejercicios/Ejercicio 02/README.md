@@ -12,7 +12,7 @@ primera línea consiste de un píxel de color blanco, seguido de tres de color n
 
 Te proponemos hacer el siguiente dibujo con este método
 
-<img src ="./img/Image02.png" width="350" height="250">
+<img src ="./img/Image02.png" width="400" height="250">
 
 Por último, te retamos a que armes tu propio dibujo y lo pases a un compañero de la mesa. Hagan un intercambio y vean que dibujo pensaron.
 
