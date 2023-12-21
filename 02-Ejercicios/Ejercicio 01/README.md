@@ -12,6 +12,6 @@ vas a pasar al lenguaje de LightBot. Por ejemplo, el primer nivel sería:
 
 De manera individual, te proponemos resolver los desafíos del juego.
 
-<a src="https://armorgames.com/play/2205/light-bot";/>
+https://armorgames.com/play/2205/light-bot
 
 <img src ="./img/light-bot.png" width="400"  height="400">
