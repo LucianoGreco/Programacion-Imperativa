@@ -4,12 +4,14 @@
 **EJERCICIO N° 1**
 =================
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+*Instrucciones*
+Antes de comenzar cada nivel, te proponemos crear el diagrama de flujo que luego
+vas a pasar al lenguaje de LightBot. Por ejemplo, el primer nivel sería:
 
-**Realizado por :** Luciano Gabriel Greco - Full Stack Developer.
+<img src ="./img/diagrama.png" width="100"  height="100">
 
-![](./img/LucianoGreco.jpeg)
+De manera individual, te proponemos resolver los desafíos del juego.
+
+<a src="https://armorgames.com/play/2205/light-bot";/>
+
+<img src ="./img/light-bot" width="100"  height="100">
