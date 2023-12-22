@@ -49,18 +49,15 @@ En todos los casos en que se reciban parámetros, utilizar el prompt para el ing
         PD: considerá que tu mes de trabajo tiene 40 horas.
 
     6. Crear la función calculadorIMC() que reciba la altura en metros y el peso en kilogramos y calcule el IMC de una persona. Luego, ejecutar la función probando diferentes valores.
-
     Seleccionar alguna de estas funciones —o de manera opcional, todas— y escribirla como función expresada y función flecha.
-
     Si llegamos hasta este punto estamos más que satisfechos. Ahora te dejamos unos ejercicios con una dificultad extra, tendrás que buscar algunos conceptos para poder resolverlos. Es una práctica que los programadores realizamos todos los días. Como siempre te decimos, una parte importante del aprendizaje en programación es
     ignorar la complejidad, e ir estrictamente a lo que necesitamos. Sabemos que no es una práctica fácil de realizar, pero con el tiempo va a ir haciéndose más sencilla y divertida.
-
 
     7. Crear una función que recibe un string en minúscula, lo convierta a mayúsculas y lo retorne.
         Investigá qué hace el método de strings .toUpperCase()
 
     8. Crear una función que recibe un parámetro y devuelve qué tipo de dato es ese parámetro.
-    Pista: te servirá revisar qué hace la palabra reservada typeof.
+        Pista: te servirá revisar qué hace la palabra reservada typeof.
 
     9. Crear una función que le pasamos el radio de un círculo y nos devuelve la circunferencia.
         Pista: Investigá si el objeto Math tiene entre sus propiedades el número Pi.
