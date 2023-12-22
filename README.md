@@ -199,3 +199,6 @@ puts markdown.to_html
 **Realizado por :** Luciano Gabriel Greco - Full Stack Developer.
 
 ![](./img/LucianoGreco.jpeg)
+
+
+<img src ="./img/diagrama.png" width="250"  height="400">
