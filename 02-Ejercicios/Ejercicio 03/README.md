@@ -31,7 +31,7 @@ Ahora sí, teniendo todo esto en cuenta, voy hasta la fiambrería. Mónica —mi
 
 Deberemos pagarle. Sin embargo, ¡nos olvidamos la plata antes de salir! Por suerte, tenemos confianza y nos fía.
 
-8. Deuda con Mónica (número)
+    8. Deuda con Mónica (número)
 
 Ya podemos volver a casa a disfrutar de nuestro tentempié. 
 
@@ -42,11 +42,11 @@ Luego de pensar todas esas variables con sus respectivos valores, deberán escri
 
 Las mismas —con valores asignados en el archivo o bien ingresados por el usuario— se deberán mostrar por pantalla. Ejemplo:
 
-    ```ruby
+```ruby
         const nombre = "Esteban"
         console.log("Esteban")
         console.log(nombre)
-    ```
+```
 
 ##Desafío extra:
 
@@ -56,8 +56,4 @@ Pensá con qué código podrías invertir el contenido de las variables de cajon
 
 Piensen cuál es la diferencia entre la línea 2 y la línea 3. ¿Cuál creen que es la mejor opción?
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
