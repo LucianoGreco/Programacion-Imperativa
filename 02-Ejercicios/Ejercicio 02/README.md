@@ -20,7 +20,7 @@ Como verás, esta es una forma de transmitir información de manera precisa y co
 
 Es lo que buscamos con la programación, que aprendan a dar instrucciones precisas para poder ser comprendidos por la computadora.
 
-=============
-### RESULTADO
-=============
+
+## RESULTADO
+
 <img src ="./img/resultado.png" width="350" height="250">
